@@ -3,6 +3,7 @@
 > AI is everywhere, but the terminology can feel overwhelming. This Wiki simplifies modern AI using **six essential concepts** and one easy human analogy.
 
 **Pages:** [Home](https://github.com/alishahbaz/AI-Made-Simple/wiki) · [AI Basics](https://github.com/alishahbaz/AI-Made-Simple/wiki/01%E2%80%90AI%E2%80%90Basics) · [LLM Brain](https://github.com/alishahbaz/AI-Made-Simple/wiki/02%E2%80%90LLM%E2%80%90Brain) · [Training](https://github.com/alishahbaz/AI-Made-Simple/wiki/03%E2%80%90Training%E2%80%90Tuning) · [RAG](https://github.com/alishahbaz/AI-Made-Simple/wiki/04%E2%80%90RAG) · [Agents](https://github.com/alishahbaz/AI-Made-Simple/wiki/05%E2%80%90AI%E2%80%90Agents%E2%80%90Tools) · [MCP](https://github.com/alishahbaz/AI-Made-Simple/wiki/06%E2%80%90MCP) · [Security](https://github.com/alishahbaz/AI-Made-Simple/wiki/07%E2%80%90System%E2%80%90Prompts%E2%80%90Security) · [Glossary](https://github.com/alishahbaz/AI-Made-Simple/wiki/Glossary)
+
 ---
 
 ## Why this Wiki exists
