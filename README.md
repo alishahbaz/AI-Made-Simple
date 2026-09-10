@@ -99,7 +99,7 @@ flowchart TD
 
 Recommended order:
 
-1. [1. What is AI?](https://github.com/alishahbaz/AI-Made-Simple/wiki/01-AI-Basics)
+1. [1. What is AI?](https://github.com/alishahbaz/AI-Made-Simple/wiki/01%E2%80%90AI%E2%80%90Basics)
 2. [2. LLM: the Brain](https://github.com/alishahbaz/AI-Made-Simple/wiki/02-LLM-Brain.md)
 3. [3. Training and Tuning](https://github.com/alishahbaz/AI-Made-Simple/wiki/03-Training-Tuning.md)
 4. [4. RAG: Retrieval-Augmented Generation](https://github.com/alishahbaz/AI-Made-Simple/wiki/04-RAG.md)
