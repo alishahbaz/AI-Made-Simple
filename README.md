@@ -99,13 +99,13 @@ flowchart TD
 
 Recommended order:
 
-1. [1. What is AI?](01-AI-Basics)
-2. [2. LLM: the Brain](02-LLM-Brain.md)
-3. [3. Training and Tuning](03-Training-Tuning.md)
-4. [4. RAG: Retrieval-Augmented Generation](04-RAG.md)
-5. [5. AI Agents and Tools](05-AI-Agents-Tools.md)
-6. [6. MCP: The Central Nervous System](06-MCP.md)
-7. [7. System Prompts and Security](07-System-Prompts-Security.md)
+1. [1. What is AI?](https://github.com/alishahbaz/AI-Made-Simple/wiki/01-AI-Basics)
+2. [2. LLM: the Brain](https://github.com/alishahbaz/AI-Made-Simple/wiki/02-LLM-Brain.md)
+3. [3. Training and Tuning](https://github.com/alishahbaz/AI-Made-Simple/wiki/03-Training-Tuning.md)
+4. [4. RAG: Retrieval-Augmented Generation](https://github.com/alishahbaz/AI-Made-Simple/wiki/04-RAG.md)
+5. [5. AI Agents and Tools](https://github.com/alishahbaz/AI-Made-Simple/wiki/05-AI-Agents-Tools.md)
+6. [6. MCP: The Central Nervous System](https://github.com/alishahbaz/AI-Made-Simple/wiki/06-MCP.md)
+7. [7. System Prompts and Security](https://github.com/alishahbaz/AI-Made-Simple/wiki/07-System-Prompts-Security.md)
 8. [Glossary](Glossary.md)
 
 ---
