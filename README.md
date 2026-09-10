@@ -2,8 +2,6 @@
 
 > AI is everywhere, but the terminology can feel overwhelming. This Wiki simplifies modern AI using **six essential concepts** and one easy human analogy.
 
-**Pages:** [Home](README.md) · [AI Basics](01-AI-Basics.md) · [LLM Brain](02-LLM-Brain.md) · [Training](03-Training-Tuning.md) · [RAG](04-RAG.md) · [Agents](05-AI-Agents-Tools.md) · [MCP](06-MCP.md) · [Security](07-System-Prompts-Security.md) · [Glossary](Glossary.md)
-
 ---
 
 ## Why this Wiki exists
