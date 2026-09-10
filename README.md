@@ -99,7 +99,7 @@ flowchart TD
 
 Recommended order:
 
-1. [1. What is AI?](01-AI-Basics.md)
+1. [1. What is AI?](01-AI-Basics)
 2. [2. LLM: the Brain](02-LLM-Brain.md)
 3. [3. Training and Tuning](03-Training-Tuning.md)
 4. [4. RAG: Retrieval-Augmented Generation](04-RAG.md)
